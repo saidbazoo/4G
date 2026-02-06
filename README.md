@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1008,9 +1008,10 @@
             <p>Supports Okumura-Hata, COST-231, and 3GPP 3D-UMA propagation models</p>
             <div class="credits">
                 <div class="credit">Designed by Eng. Said Ragab Baz</div>
-                <div class="credit">Developed by Eng. Ahmed Karam Ali</div>
+                <div class="credit">Developed by Eng. Ahmed Karam Ali</div> 
+                <div class="credit">Supervised by Dr. Abdul Nasser Fawzi</div>
             </div>
-            <p style="margin-top: 15px;">© 2024 - Advanced Telecommunications Research Group</p>
+            <p style="margin-top: 15px;">© 2026 - Advanced Telecommunications Research Group</p>
         </footer>
     </div>
 
